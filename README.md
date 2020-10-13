@@ -1,4 +1,5 @@
 <br>
+<h1 align="center"> Hi, I'm Matéo a student of 42 who likes to use all these things... </h1>
 <p align="center">
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg" width="100"><br><img src="https://little.kylerconway.com/images/golang-what.gif" width="300">
 </p>
