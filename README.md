@@ -6,6 +6,6 @@
 <br>
 <p align="center">
 <a href="https://twitter.com/delarbre_mateo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mdelarbr" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/mat%C3%A9o-delarbre-14777818a/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mdelarbre" height="20" width="20" /></a>
+<a href="www.linkedin.com/in/mdelarbr" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mdelarbre" height="20" width="20" /></a>
 <a href="https://www.facebook.com/mdelarbr" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mdelarbr" height="20" width="20" /></a>
 </p>
