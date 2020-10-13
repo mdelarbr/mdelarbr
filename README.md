@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><img src="https://little.kylerconway.com/images/golang-what.gif" width="300"><img src="https://media.giphy.com/media/e9PRZEkoIUmM8/giphy.gif" width="100">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><img src="https://little.kylerconway.com/images/golang-what.gif" width="300"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg" width="100">
 </p>
 <br>
 <br>
