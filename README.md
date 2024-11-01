@@ -5,5 +5,5 @@
 </p>
 <br>
 <p align="center">
-<a href="https://www.linkedin.com/in/mdelarbr/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mdelarbre" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/mdelarbr/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="mdelarbre" height="50" width="50" /></a>
 </p>
